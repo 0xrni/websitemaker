@@ -1,0 +1,34 @@
+a{
+    font-size: large;
+    color: slategrey;
+}
+h2{
+    font-size: xx-large;
+}
+h3{
+    font-size: x-large;
+    color: green;
+}
+h4{
+    font-size: large;
+}
+.a2
+{
+    background-color: yellow;
+    color: black;
+    width: 150px;
+    height: 50px;
+    font-size: large;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+.b2
+{
+    background-color: orange;
+    color: black;
+    width: 150px;
+    height: 50px;
+    font-size: large;
+    border-radius: 20px;
+    border: 1px solid white;
+}

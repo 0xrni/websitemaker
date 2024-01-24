@@ -1,0 +1,30 @@
+h4{
+    color: goldenrod;
+}
+h2{
+    font-size: xx-large;
+    color: black;
+}
+p{
+    color: black;
+}
+.a2
+{
+    background-color: goldenrod;
+    color: black;
+    width: 150px;
+    height: 50px;
+    font-size: large;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+.b2
+{
+    background-color: grey;
+    color: white;
+    width: 125px;
+    height: 40px;
+    font-size: medium;
+    border-radius: 20px;
+    border: 1px solid white;
+}

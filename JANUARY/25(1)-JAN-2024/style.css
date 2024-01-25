@@ -1,0 +1,56 @@
+h3{
+    color: grey;
+}
+p{
+    color: grey;
+}
+a{
+    color: black;
+}
+h5{
+    color: grey;
+}
+.a2{
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border: 1px solid black;
+}
+.b2{
+    background-color: white;
+    width: 100px;
+    height: 25px;
+    border: 1px solid black;
+}
+.c2{
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    border: 1px solid black;
+}
+.d2{
+    background-color: yellow;
+    color: black;
+    font-size: small;
+    width: 300px;
+    height: 30px;
+    border: 1px solid white;
+}
+h6{
+    color: grey;
+}
+.ea1{
+    color: darkslategrey;
+    background-color: lightgrey;
+    border: 1px solid white;
+}
+.ea2{
+    color: darkslategrey;
+    background-color: lightgrey;
+    border: 1px solid white;
+}
+.ea3{
+    color: darkslategrey;
+    background-color: lightgrey;
+    border: 1px solid white;
+}

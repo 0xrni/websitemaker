@@ -1,0 +1,69 @@
+.a2{
+    color: black;
+    background-color: lightgrey;
+    width: 50px;
+    height: 40px;
+    font-size: medium;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+a{
+    color: purple;
+    font-size: larger;
+}
+.b2{
+    color: black;
+    background: lightgrey;
+    width: 50px;
+    height: 40px;
+    font-size: medium;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.c2{
+    width: 300px;
+    height: 50px;
+    background-color: green;
+    color: white;
+    font-size: x-large;
+    border: 1px solid white;
+    transition: 0.5s ease;
+}
+.c2:hover
+{
+    width: 400px;
+    height: 100px;
+}
+.d2{
+    width: 125px;
+    height: 50px;
+    color: white;
+    background-color: green;
+    font-size: large;
+    border: 1px solid green;
+    box-shadow: 10px 11px 14px -5px rgba(0,0,0,0.45);
+-webkit-box-shadow: 10px 11px 14px -5px rgba(0,0,0,0.45);
+-moz-box-shadow: 10px 11px 14px -5px rgba(0,0,0,0.45);
+}
+.d2:active{
+    width: 125px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 5px;
+    box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.75);
+}
+.ea1{
+    background-color: green;
+    color: white;
+    font-size: large;
+    width: 75px;
+    height: 50px;
+    border: solid white;
+}
+.ea1:hover
+{
+    width: 100px;
+    transition: 0.5s;
+}

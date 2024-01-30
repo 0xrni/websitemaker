@@ -1,0 +1,145 @@
+body{
+    background: black;
+}
+.a1{
+    background-color: rgb(74, 74, 74);
+    color: white;
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+    font-size: large;
+}
+.a1:hover{
+    background-color: rgb(74, 74, 74);
+    color: white;
+    width: 100px;
+    height: 50px;
+    border: 1px solid white;
+    font-size: large;
+}
+.b1{
+    background-color: rgb(74, 74, 74);
+    color: white;
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+}
+.b1:hover{
+    background-color: rgb(74, 74, 74);
+    color: white;
+    width: 100px;
+    height: 50px;
+    border: 1px solid white;
+}
+.c1{
+    background-color: rgb(241, 241, 241);
+    color: grey;
+    width: 50px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+.c1:hover{
+    background-color: rgb(214, 214, 214);
+    color: black;
+    width: 50px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+.d1{
+    text-align: left;
+    background-color: white;
+    color: grey;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+.e1{
+    background-color: orange;
+    width: 50px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid orange;
+}
+.e1:hover{
+    background-color: rgb(216, 141, 0);
+    border-radius: 5px;
+    width: 50px;
+    height: 40px;
+    border: 1px solid rgb(216, 141, 0);
+}
+.a2{
+    background-color: slategray;
+    color: white;
+    width: 50px;
+    height: 40px;
+    border: 1px solid slategray;
+}
+.a2:hover{
+    border: 1px solid white;
+}
+.a3{
+    background-color: slategray;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: 1px solid slategray;
+}
+.a3:hover{
+    border: 1px solid white;
+}
+.a4{
+    background-color: slategray;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border: 1px solid slategray;
+}
+.a4:hover{
+    border: 1px solid white;
+}
+.a5{
+    background-color: slategray;
+    color: white;
+    width: 70px;
+    height: 40px;
+    border: 1px solid slategray;
+}
+.a5:hover{
+    border: 1px solid white;
+}
+.a6{
+    background-color: slategray;
+    color: white;
+    width: 75px;
+    height: 40px;
+    border: 1px solid slategray;
+}
+.a6:hover{
+    border: 1px solid white;
+}
+.a7{
+    background-color: slategray;
+    color: white;
+    width: 50px;
+    height: 40px;
+    border: 1px solid slategray;
+}
+.a7:hover{
+    border: 1px solid white;
+}
+img{
+    width: 300px;
+    height: 350px;
+}
+h3{
+    color: white;
+}
+h5{
+    color: lightblue;
+}
+h5:hover{
+    color: orange;
+}

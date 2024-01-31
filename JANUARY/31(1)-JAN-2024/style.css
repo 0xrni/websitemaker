@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+.Least{
+    color: rgb(246, 246, 146);
+    background-color: darkslategray;
+    font-family: tahoma;
+    border-radius: 20px;
+    font-size: large;
+}
+.Least:hover{
+    color: rgb(204, 204, 115);
+    transition: 0.5s;
+}
+.a1{
+    border-radius: 20px;
+    color:  rgb(246, 246, 146);
+    background-color:  rgb(174, 174, 3);
+    font-size: large;
+    border: 1px solid rgb(174, 174, 3);
+}
+h1{
+    color: white;
+    font-family: tahoma;
+    font-size: xx-large;
+}
+h3{
+    color: white;
+    font-family: arial;
+    font-size: large;
+}
+.Free{
+    color: white;
+    font-family: tahoma;
+    font-size: large;
+}
+.Free:hover{
+    color: rgb(177, 177, 177);
+    font-family: tahoma;
+    font-size: large;
+    transition: 0.5s;
+}
+.a2{
+    color: black;
+    background-color: rgb(255, 255, 82);
+    font-family: tahoma;
+    border-radius: 20px;
+    border: 1px solid rgb(255, 255, 82);
+    font-size: large;
+}
+.a2:hover{
+    color: black;
+    background-color: rgb(238, 238, 56);
+    transition: 0.3s;
+}

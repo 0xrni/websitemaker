@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.Least{
+    color: rgb(246, 246, 146);
+    background-color: darkslategray;
+    font-family: tahoma;
+    border-radius: 20px;
+    font-size: large;
+    
+}
+.Least:hover{
+    color: rgb(204, 204, 115);
+    transition: 0.5s;
+}
+.a1{
+    border-radius: 20px;
+    color:  rgb(246, 246, 146);
+    background-color:  rgb(174, 174, 3);
+    font-size: large;
+    border: 1px solid rgb(174, 174, 3);
+}
+.auto{
+    color: white;
+    text-align: center;
+}

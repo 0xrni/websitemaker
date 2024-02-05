@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
 body{
     background-color: black;
 }
@@ -7,7 +8,7 @@ body{
     font-family: tahoma;
     border-radius: 20px;
     font-size: large;
-    
+    font-family: 'Raleway', sans-serif;
 }
 .Least:hover{
     color: rgb(204, 204, 115);
@@ -19,8 +20,45 @@ body{
     background-color:  rgb(174, 174, 3);
     font-size: large;
     border: 1px solid rgb(174, 174, 3);
+    font-family: 'Raleway', sans-serif;
 }
 .auto{
     color: white;
     text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+.access{
+    color: white;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+h3{
+    font-family: 'Raleway', sans-serif;
+    color: grey;
+    text-align: center;
+}
+.a2{
+    color: black;
+    background-color: rgb(255, 255, 82);
+    font-family: tahoma;
+    border-radius: 20px;
+    border: 1px solid rgb(255, 255, 82);
+    font-size: large;
+}
+.a2:hover{
+    color: black;
+    background-color: rgb(238, 238, 56);
+    transition: 0.3s;
+}
+.Free{
+    color: white;
+    font-family: tahoma;
+    font-size: large;
+}
+.Free:hover{
+    color: rgb(177, 177, 177);
+    font-family: tahoma;
+    font-size: large;
+    transition: 0.5s;
+    cursor: pointer;
 }

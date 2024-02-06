@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+.mix{
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.a5{
+    color: rgb(90, 1, 90);
+    background-color: white;
+    border: 1px solid white;
+    width: 200px;
+    height: 50px;
+    font-size: xx-large;
+}
+.a1{
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+    font-size: large;
+    width: 135px;
+    height: 50px;
+    transition: 0.3s;
+}
+.a1:hover{
+    color: grey;
+}
+a{
+    color: black;
+    align-items: center;
+    font-size: large;
+    transition: 0.3s;
+}
+a:hover{
+    color: grey;
+}
+.a2{
+    background-color: white;
+    color: rgb(87, 7, 161);
+    font-size: large;
+    width: 100px;
+    height: 45px;
+    border: 1px solid rgb(87, 7, 161);
+    border-radius: 20px;
+    transition: 0.3s;
+}
+.a2:hover{
+    border-radius: 5px;
+}
+.a3{
+    color: white;
+    background-color: rgb(149, 39, 252);
+    font-size: large;
+    width: 120px;
+    height: 45px;
+    border: 1px solid rgb(129, 18, 232);
+    border-radius: 20px;
+    transition: 0.3s;
+}
+.a3:hover{
+    border-radius: 5px;
+}
+

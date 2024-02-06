@@ -1,0 +1,18 @@
+.item{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.Genra{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+input{
+    width: 200px;
+    height: 50px;
+}
+button{
+    width: 50px;
+    height: 55px;
+}

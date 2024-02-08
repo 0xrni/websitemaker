@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+body{
+    background-color: black;
+}
+.a1{
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    width: 125px;
+    height: 30px;
+    font-size: large;
+    transition: 0.3s;
+}
+.a1:hover{
+    background-color: rgb(151, 151, 151);
+    border-radius: 5px;
+}
+.a2{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    width: 125px;
+    height: 30px;
+    font-size: large;
+    transition: 0.3s;
+}
+.a2:hover{
+    background-color: rgb(151, 151, 151);
+    border-radius: 5px;
+}
+.a3{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    width: 75px;
+    height: 30px;
+    font-size: large;
+    transition: 0.3s;
+}
+.a3:hover{
+    background-color: rgb(151, 151, 151);
+    border-radius: 5px;
+}
+.a4{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: rgb(41, 41, 41);
+    color: white;
+    width: 75px;
+    height: 30px;
+    font-size: large;
+    border: 1px solid rgb(75, 75, 75);
+    transition: 0.3s;
+}
+.a4:hover{
+    background-color: rgb(151, 151, 151);
+    border-radius: 5px;
+}
+.title{
+    color: rgb(193, 193, 193);
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: xxx-large;
+}
+.head{
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: xx-large;
+}

@@ -60,4 +60,29 @@ a:hover{
 .a3:hover{
     border-radius: 5px;
 }
+.progress{
+    font-size: xx-large;
+    color: rgb(70, 0, 70);
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+.simple{
+    color: grey;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+.a4{
+    color: white;
+    background-color: rgb(149, 39, 252);
+    font-size: large;
+    width: 120px;
+    height: 45px;
+    border: 1px solid rgb(129, 18, 232);
+    border-radius: 20px;
+    transition: 0.3s;
+    
+}
+.a4:hover{
+    border-radius: 5px;
+}
 

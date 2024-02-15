@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+body{
+    background-color: rgb(238, 171, 238);
+}
+.nike{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.a1{
+    font-family: 'Josefin Sans', sans-serif;
+    border-radius: 5px;
+    font-size: medium;
+    color: black;
+    border: 1px solid grey;
+    background-color: white;
+    transition: 0.3s;
+}
+.a1:hover{
+    background-color: rgb(238, 171, 238);
+}
+.des{
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+}
+.price{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.a2{
+    background-color: rgb(76, 0, 76);
+    font-family: 'Josefin Sans', sans-serif;
+    border: 1px solid rgb(76, 0, 76);
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+    color: white;
+    font-size: large;
+    transition: 0.3s;
+}
+.a2:hover{
+    background-color: rgb(241, 80, 241);
+    border: 1px solid rgb(241, 80, 241);
+}
+.shoe{
+    width: 480px;
+    background-color: rgb(49, 5, 49);
+    height: 450px;
+    border-radius: 15px;
+}
+.cart{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 400px;
+    align-items: center;
+}
+.information{
+    background-color: white;
+    width: 480px;
+    height: auto;
+    
+    border-radius: 15px;
+}

@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(69, 0, 0);
+}
+.minipicture{
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    width: 500px;
+}
+.picture{
+    display: flex;
+}
+.mini
+{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 392px;
+}
+.pic img{
+    width: 510px;
+    height: auto;
+}
+.movie{
+    color: white;
+    font-family: verdana;
+}
+.Sava{
+    color: grey;
+    font-family: verdana;
+}
+.topic{
+    color: white;
+    font-family: verdana;
+}
+.fithteen{
+    font-family: verdana;
+    color: grey;
+}
+.a1{
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 5px;
+    font-size: large;
+    font-family: verdana;
+    transition: 0.3s;
+}
+.a1:hover{
+    background-color: white;
+    border: 1px solid white;
+}
+.edit{
+    font-family: verdana;
+    color: white;
+}
+.a2{
+    font-family: verdana;
+    background-color: blue;
+    border-radius: 5px;
+    border: 1px solid blue;
+    color: white;
+    transition: 0.3s;
+}
+.a2:hover{
+    background-color: black;
+    border: 1px solid black;
+}
+.a3{
+    font-family: verdana;
+    background-color: yellow;
+    border-radius: 5px;
+    border: 1px solid yellow;
+    transition: 0.3s;
+}
+.a3:hover{
+    background-color: white;
+    border: 1px solid white;
+}

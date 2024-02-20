@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+.normal{
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
+.square{
+    object-fit: cover;
+    width: 200px;
+    height: auto;
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}

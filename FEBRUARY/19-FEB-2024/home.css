@@ -1,0 +1,67 @@
+.searchbar{
+    border-radius: 5px;
+    border: 1px solid grey;
+    font-size: medium;
+}
+.google{
+    border-radius: 10px;
+    border: 1px solid grey;
+    width: 300px;
+    font-size: medium;
+    box-shadow: 10px 10px 24px -6px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 24px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 24px -6px rgba(0,0,0,0.75);
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: grey;
+}
+.email{
+    width: 250px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+h4{
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+.a1{
+    background-color: rgb(52, 52, 255);
+    border: 1px solid rgb(52, 52, 255);
+    border-radius: 20px;
+    width: 275px;
+    height: 40px;
+    color: white;
+    font-size: large;
+    transition: 0.3s;
+}
+.a1:hover{
+    background-color: black;
+    border: 1px solid black;
+}
+.cat{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    vertical-align: middle;
+}
+.tweet{
+    background-color: white;
+    border: 1px solid white;
+    vertical-align: middle;
+    font-size: medium;
+}
+.a2{
+    background-color: rgb(52, 52, 183);
+    color: white;
+    font-size: large;
+    border: 1px solid rgb(52, 52, 183);
+    border-radius: 10px;
+    width: 70px;
+    transition: 0.3s;
+    vertical-align: middle;
+}
+.a2:hover{
+    background-color: rgb(1, 142, 190);
+    border: 1px solid rgb(1, 142, 190);
+}

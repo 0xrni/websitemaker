@@ -1,0 +1,29 @@
+.Name{
+    display: block;
+}
+h2{
+    font-family: sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+}
+.a1{
+    width: 50px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.google{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1300px;
+}
+.search{
+    color: rgb(95, 94, 94);
+    border-radius: 20px;
+    font-size: xx-large;
+    width: 1200px;
+    box-shadow: 10px 10px 24px -6px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 24px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 24px -6px rgba(0,0,0,0.75);
+}

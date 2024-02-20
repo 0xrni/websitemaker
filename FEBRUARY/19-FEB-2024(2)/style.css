@@ -1,0 +1,36 @@
+body{
+    background-color: lightpink;
+}
+.a1{
+    background-color: lightpink;
+    border: 1px solid lightpink;
+    font-size: xxx-large;
+    vertical-align: middle;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.a2{
+    background-color: lightpink;
+    border: 1px solid lightpink;
+    font-size: large;
+    vertical-align: middle;
+    font-family: sans-serif;
+    transition: 0.3s;
+}
+.a2:hover{
+    color: rgb(69, 69, 69);
+}
+.a3{
+    vertical-align: middle;
+    background-color: lightpink;
+    border: 1px solid lightpink;
+    font-size: large;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: xxx-large;
+}
+.bar{
+    justify-content: space-around;
+    display: flex;
+}

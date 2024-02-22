@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body{
+    background-color: rgb(234, 232, 232);
+}
+.satisfied{
+    border: 1px solid grey;
+    width: 300px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    background-color: white;
+}
+.yes{
+    background-color: rgb(244, 244, 244);
+    border: 1px solid grey;
+}
+.no{
+    background-color: rgb(244, 244, 244);
+    border: 1px solid grey;
+}
+.youtube{
+    background-color: rgb(48, 47, 47);
+    width: 420px;
+    height: 110px;
+    padding-left: 10px;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+.music{
+    color: white;
+}
+.add{
+    color: grey;
+}

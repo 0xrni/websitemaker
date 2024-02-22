@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+.cat{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    vertical-align: middle;
+}
+.bird{
+    background-color: rgb(52, 52, 183);
+    color: white;
+    font-size: large;
+    border: 1px solid rgb(52, 52, 183);
+    border-radius: 10px;
+    width: 70px;
+    transition: 0.3s;
+    vertical-align: middle;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+.twitter{
+    border: 1px solid grey;
+    width: 375px;
+    padding-left: 8px;
+    box-shadow: -2px 0px 15px 3px rgba(184,184,184,0.75);
+-webkit-box-shadow: -2px 0px 15px 3px rgba(184,184,184,0.75);
+-moz-box-shadow: -2px 0px 15px 3px rgba(184,184,184,0.75);
+}
+.tweet{
+    border: 1px solid white;
+    vertical-align: middle;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+.onefbicon{
+    display: inline-block;
+    width: 192px;
+    box-shadow: -2px 0px 15px 3px rgba(184,184,184,0.75);
+-webkit-box-shadow: -2px 0px 15px 3px rgba(184,184,184,0.75);
+-moz-box-shadow: -2px 0px 15px 3px rgba(184,184,184,0.75);
+}
+.profilepicture{
+    width: 192px;
+    height: 130px;
+}
+.info{
+    border: 1px solid grey;
+    width: 180px;
+    height: 145px;
+    padding-left: 10px;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+.twofriends{
+    color: grey;
+}
+.addone{
+    background-color: rgb(111, 111, 252);
+    color: white;
+    border: 1px solid rgb(111, 111, 252);
+    width: 100px;
+    height: 30px;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}

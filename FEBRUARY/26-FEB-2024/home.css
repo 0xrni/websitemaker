@@ -1,0 +1,59 @@
+.InstargramUser
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.UserInfo
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 40vw;
+}
+img
+{
+    border-radius: 200px;
+    height: 200px;
+}
+.Info
+{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+.Cat
+{
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+.Famous
+{
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+.FollowUser
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button
+{
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color: rgb(95, 95, 255);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+.Item
+{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}

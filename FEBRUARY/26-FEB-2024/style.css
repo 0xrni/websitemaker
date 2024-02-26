@@ -1,0 +1,33 @@
+.ProfileImage
+{
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+    border: 5px solid blue;
+}
+img{
+    border-radius: 100px;
+    width: 200px;
+}
+.Information
+{
+    border: 5px solid red;
+    width: 100px;
+}
+.Name
+{
+    border: 5px solid red;
+}
+.InfoOne
+{
+    border: 5px solid red;
+}
+.InfoTwo
+{
+    border: 5px solid red;
+}
+.IconBox
+{
+    border: 5px solid blue;
+    width: 300px;
+}

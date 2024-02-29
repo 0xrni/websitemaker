@@ -1,0 +1,38 @@
+.InstargramUser{
+    display: flex;
+    align-items: center;
+}
+.Item{
+
+}
+.UserIconForOliver{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 40vw;
+}
+.Oliver{
+    border-radius: 200px;
+    height: 170px;
+}
+.UserInfoForOliver{
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    vertical-align: middle;
+}
+.NameOliver{
+    color: black;
+}
+.InformationOne{
+    color: grey;
+}
+.Popular{
+    color: grey;
+}
+.FollowOliver{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}

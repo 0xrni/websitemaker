@@ -3,7 +3,7 @@
     align-items: center;
 }
 .Item{
-
+    display: flex;
 }
 .UserIconForOliver{
     display: flex;
@@ -32,7 +32,82 @@
 }
 .FollowOliver{
     display: flex;
-    flex-direction: column;
     align-items: center;
-    
+}
+.OliverTheCat{
+    background-color: rgb(67, 67, 255);
+    border-radius: 5px;
+    color: white;
+    border: 1px solid rgb(67, 67, 255);
+    width: 90px;
+    height: 40px;
+}
+.UserIconForMimi{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 40vw;
+}
+.Mimi{
+    border-radius: 200px;
+    height: 170px;
+}
+.UserInfoForMimi{
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    vertical-align: middle;
+}
+.NameMimi{
+    color: black;
+}
+.InformationTwo{
+    color: grey;
+}
+.FollowMimi{
+    display: flex;
+    align-items: center;
+}
+.MimiTheCat{
+    background-color: rgb(67, 67, 255);
+    border-radius: 5px;
+    color: white;
+    border: 1px solid rgb(67, 67, 255);
+    width: 90px;
+    height: 40px;
+}
+.UserIconForRex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 40vw;
+}
+.Rex{
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+}
+.UserInfoForRex{
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    vertical-align: middle;
+}
+.NameRex{
+    color: black;
+}
+.SillyCat{
+    color: grey;
+}
+.FollowRex{
+    display: flex;
+    align-items: center;
+}
+.RexTheCat{
+    background-color: rgb(67, 67, 255);
+    border-radius: 5px;
+    color: white;
+    border: 1px solid rgb(67, 67, 255);
+    width: 90px;
+    height: 40px;
 }

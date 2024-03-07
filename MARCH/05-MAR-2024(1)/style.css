@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,500&display=swap');
+.Itemcard{
+    display: flex;
+    flex-direction: row;
+}
+.Information{
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  width: 700px;
+  height: 498px;
+  border: 1px solid grey;
+  padding-left: 20px;
+}
+.DrinkMenu h2{
+    font-size: xxx-large;
+}
+.ShopNow .Shop{
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color: white;
+    width: 150px;
+    height: 30px;
+    font-size: medium;
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  transition: 0.2s;
+}
+.ShopNow .Shop:hover{
+    background-color: black;
+    color: white;
+}
+.DrinkPicture img{
+    width: 700px;
+    height: 500px;
+}
+.BestSeller{
+    display: flex;
+    flex-direction: row;
+}
+.Drink{
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  padding-left: 20px;
+}
+.LalimoLemon{
+    border: 1px solid grey;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  padding-left: 20px;
+}
+.price{
+    color: grey;
+}
+.LalimoGrapeFruit{
+    border: 1px solid grey;
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  padding-left: 20px;
+}

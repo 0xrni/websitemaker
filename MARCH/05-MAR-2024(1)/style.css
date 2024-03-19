@@ -73,3 +73,24 @@
   width: 500px;
   padding-left: 20px;
 }
+.DrinkTwo{
+  display: flex;
+  flex-direction: row;
+}
+.Green img{
+  display: flex;
+  flex-direction: column;
+}
+.Green{
+  display: flex;
+  flex-direction: row;
+}
+.Healthy{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.DescriptionTwo h3{
+  
+}

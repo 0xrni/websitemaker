@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:ital,wght@0,500;1,500&family=Text+Me+One&display=swap');
+.Itemcard{
+    font-family: "Kantumruy Pro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.Inboxes{
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 650px;
+    height: 450px;
+    box-shadow: 2px 0px 32px 0px rgba(0,0,0,0.45);
+-webkit-box-shadow: 2px 0px 32px 0px rgba(0,0,0,0.45);
+-moz-box-shadow: 2px 0px 32px 0px rgba(0,0,0,0.45);
+}
+.AllInboxes{
+    color: gray;
+}
+.Gmail{
+
+}
+.ProfileIcon img{
+    border-radius: 100px;
+    width: 75px;
+}
+.Caption{
+    display: flex;
+    flex-direction: row;
+}
+.Promotions{
+    
+}
+.Time{
+    color: gray;
+}
+.Description{
+    color: gray;
+}

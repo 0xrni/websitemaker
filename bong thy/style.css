@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@0;1&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, cyan, teal, white);
+    font-family: "Roboto Condensed", sans-serif;
+    height: 100vh;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  animation: fade-in 0.3s ease-in-out;
+  }
+  .div1{
+
+  }
+  .picture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .navbar {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(135deg, cyan, teal, white);
+    overflow: hidden;
+  }
+  .navbar a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    transition: transform 0.3s ease;
+  }
+  .navbar a:hover {
+    background-color: rgb(88, 161, 255);
+    color: white;
+    transform: scale(1.1);
+    border-radius: 10px;
+  }
+  .div2{
+
+  }
+  .information{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .information h3{
+    color: rgb(207, 207, 207);
+  }
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }

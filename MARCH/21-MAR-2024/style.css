@@ -1,0 +1,36 @@
+
+.Itemcard{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(214, 214, 214, 0.8);
+    border: 1px solid black;
+    filter: blur(0.3px);
+}
+.bottom{
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    margin-left: 175px;
+    height: 298px;
+}
+.h3{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+}
+.overlay{
+    position: absolute;
+    transform: translate(20%, -160%);
+    border: 1px solid grey;
+    background-color: white;
+    width: 200px;
+    height: 135px;
+    padding-left: 10px;
+}
+.close{
+    background-color: rgba(214, 214, 214, 0.8);
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: large;
+    cursor: pointer;
+}

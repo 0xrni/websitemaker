@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@100..800&display=swap');
+.Itemcard{
+    font-family: "Anek Tamil", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.navbar{
+    
+}
+.UserInfo{
+    display: flex;
+    justify-content: space-between;
+}
+.ProfileIconAndUsername{
+    display: flex;
+}
+.ProfileIconAndUsername img{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+}
+.ProfileIconAndUsername h3{
+    padding-left: 10px;
+}
+.Contact{
+    display: flex;
+}
+.AddFriend{
+
+}
+.AddUser{
+
+}
+.Message{
+
+}
+.DirectMessage{
+
+}
+.Discord{
+
+}
+.UserIconAndChannel{
+
+}
+.DiscordIcon{
+
+}
+.Channel{
+
+}
+.ChannelInfo{
+
+}
+.Info{
+
+}
+.Create{
+
+}
+.ChannelName{
+
+}
+.Content{
+
+}

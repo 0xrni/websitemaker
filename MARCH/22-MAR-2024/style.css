@@ -26,44 +26,81 @@
     padding-left: 10px;
 }
 .Contact{
-    display: flex;
+    margin-top: 15px;
+    margin-right: 800px;
+    margin-bottom: 40px;
 }
 .AddFriend{
-
+    display: flex;
+    justify-content: center;
 }
 .AddUser{
-
-}
-.Message{
-
+    background-color: rgb(87, 87, 255);
+    color: white;
+    border: 1px solid rgb(87, 87, 255);
+    border-radius: 5px;
+    font-size: medium;
+    font-family: "Anek Tamil", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
 }
 .DirectMessage{
-
+    background-color: rgb(194, 194, 194);
+    border: 1px solid rgb(194, 194, 194);
+    border-radius: 5px;
+    color: black;
+    font-size: medium;
+    font-family: "Anek Tamil", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
 }
 .Discord{
 
 }
 .UserIconAndChannel{
-
+    display: flex;
+    flex-direction: row;
 }
 .DiscordIcon{
-
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(29, 27, 27);
+    width: 80px;
+    padding-left: 5px;
+    padding-top: 8px;
+    height: 270px;
+}
+.DiscordIcon img{
+    border-radius: 100px;
+    width: 65px;
+    padding: 5px;
 }
 .Channel{
-
+    background-color: rgb(70, 70, 70);  
+    width: 200px;
+    padding-left: 10px;
 }
 .ChannelInfo{
 
 }
 .Info{
-
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+    color: white;
 }
-.Create{
-
+.plus{
+    color: rgb(29, 27, 27);
 }
 .ChannelName{
-
+    color: rgb(182, 182, 182);
 }
 .Content{
-
+    
 }

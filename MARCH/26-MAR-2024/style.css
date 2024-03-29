@@ -5,7 +5,7 @@
 .navbar{
     background-color: #171717;
     height: 86px;
-    width: 1520px;
+    width: 1510px;
     border-radius: 50px;
     
 }
@@ -22,6 +22,7 @@
     border-radius: 60px;
     height: 66px;
     width: 136px;
+    font-size: large;
     transition: 0.3s;
     font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
@@ -100,4 +101,110 @@
 }
 span{
     color: #FD853A;
+}
+.JennyInfo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 125px;
+}
+.JennyPicture img{
+    height: 636px;
+    width: 952.4px;
+}
+.JennyDescription{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(43, 50, 57);
+}
+.JennyExperince{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.JennyExperince .Tenyears{
+    display: flex;
+    justify-content: right;
+}
+.JennyExperince .Experince{
+    display: flex;
+    justify-content: right;
+}
+.CheckOrHire{
+    width: 367px;
+    height: 82px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(600px,-130px);
+    background: rgb(191,191,191);
+background: linear-gradient(90deg, rgba(191,191,191,1) 0%, rgba(166,166,166,0.14898459383753504) 100%, rgba(0,212,255,1) 100%);
+}
+.WebPortfolio{
+    background-color: #FD853A;
+    border: #FD853A;
+    border-radius: 60px;
+    width: 208px;
+    height: 62px;
+    color: white;
+    font-size: large;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.HireMe{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    width: 129px;
+    height: 54px;
+    border-radius: 60px;
+    border: none;
+    color: white;
+    font-size: large;
+    background: rgb(191,191,191);
+    background: linear-gradient(90deg, rgba(191,191,191,1) 0%, rgba(166,166,166,0.14898459383753504) 100%, rgba(0,212,255,1) 100%);
+}
+.Service{
+    width: 1510px;
+    height: 828px;
+    border-radius: 24px;
+    background: rgb(255,215,50);
+background: radial-gradient(circle, rgba(255,215,50,1) 0%, rgba(250,198,102,1) 98%, rgba(240,240,240,1) 100%);
+}
+.ServiceDescription{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 50px;
+    padding-left: 125px;
+    padding-right: 125px;
+}
+.ServiceDescription h4{
+    color: white;
+}
+.ServiceDescription h2{
+    color: white;
+}
+.uxuidesign{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 75px;
+    gap: 10px;
+}
+.uxuidesign img{
+    width: 416px;
+    height: 508px;
+    border-radius: 50px;
 }

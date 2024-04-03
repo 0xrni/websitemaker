@@ -13,7 +13,6 @@
    display: flex;
    justify-content: space-around;
    padding-top: 10px;
-   
 }
 .Home{
     background-color: #FD853A;
@@ -64,12 +63,6 @@
     font-weight: 600;
     font-style: normal;
 }
-.Jenny{
-
-}
-.ProductDesigner{
-
-}
 .Hello{
     display: flex;
     justify-content: center;
@@ -95,9 +88,6 @@
     font-optical-sizing: auto;
     font-weight: 600;
     font-style: normal;
-}
-.DesignerJenny h1{
-
 }
 span{
     color: #FD853A;
@@ -208,9 +198,6 @@ background: radial-gradient(circle, rgba(255,215,50,1) 0%, rgba(250,198,102,1) 9
     height: 508px;
     border-radius: 50px;
 }
-.WorkExperince{
-
-}
 .WorkExperinceDescription{
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
@@ -241,10 +228,7 @@ background: radial-gradient(circle, rgba(255,215,50,1) 0%, rgba(250,198,102,1) 9
 }
 .WhyHireMe{
     display: flex;
-    
-}
-.WhyHireMePicture{
-    
+    flex-direction: row;
 }
 .WhyHireMePicture img{
     width: 603px;
@@ -257,14 +241,80 @@ background: radial-gradient(circle, rgba(255,215,50,1) 0%, rgba(250,198,102,1) 9
     font-style: normal;
 }
 .Project{
-    
-}
-.Completed{
-
-}
-.HireMeButton{
-
+    display: flex;
+    justify-content: space-between;
 }
 .HireButton{
-
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    width: 233px;
+    height: 108px;
+    border-radius: 32px;
+    font-size: x-large;
+    margin-top: 30px;
+}
+.LookAtPortfolio{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #171717;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 120px;
+}
+.SeeAll{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    width: 144px;
+    height: 66px;
+    border-radius: 60px;
+    background-color: #FD853A;
+    border: none;
+    color: white;
+    font-size: large;
+    margin-right: 120px;
+}
+.Lirante{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.Lirante img{
+    width: 633px;
+    height: 371px;
+}
+.MorePages{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.PortfolioPages{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #171717;
+    background-color: rgb(239, 239, 239);
+    border: none;
+    width: 193px;
+    height: 54px;
+    border-radius: 24px;
+}
+.LiranteFood{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #171717;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
